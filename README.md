@@ -13,4 +13,3 @@
 
 ===========
 Everything should work without problems, if you have errors let me know.
-All the best.
