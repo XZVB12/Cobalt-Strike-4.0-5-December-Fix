@@ -12,4 +12,5 @@
 * Place the .java files next to the cobaltstrike .jar file and run the javac -classpath cobaltstrike.jar command name.java
 
 ===========
-Everything should work without problems, if you have errors let me know.
+Everything should work without problems, if you have errors let me know.  
+All the best
