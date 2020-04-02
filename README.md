@@ -13,3 +13,5 @@
 
 Everything should work without problems, if you have errors let me know.  
 All the best
+
+![Image](https://github.com/XZVB12/Cobalt-Strike-4.0-5-December-Fix/raw/master/qb.png)
