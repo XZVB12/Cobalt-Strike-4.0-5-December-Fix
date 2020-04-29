@@ -1,7 +1,7 @@
 # Cobalt-Strike-4.0-5-December-Fix
 
 #### Fixed:
-* Generation x 64 Beacon Issue
+* Generation x64 Beacon Issue
 * Notification Issues
 
 #### Installation:
