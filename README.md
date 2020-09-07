@@ -1,5 +1,7 @@
 # Cobalt-Strike-4.0-5-December-Fix
 
+## Already deprecated , use cs 4.1
+
 #### Fixed:
 * Generation x64 Beacon Issue
 * Notification Issues
